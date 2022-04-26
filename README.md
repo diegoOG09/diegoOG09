@@ -8,7 +8,7 @@
 I am a person with interest in learning new things and sharing what I know. I like working in a team. My hobbies are reading and watching movies and series.
 
 ### ✍🏻 Blog & writing
-Apart from coding, I also maintain a blog where I share tutorials and tips for beginners and advanced coders. You can find my articles on my website <a href="diegosalinas.dev">diegosalinas.dev</a>
+Apart from coding, I also maintain a blog where I share tutorials and tips for beginners and advanced coders. You can find my articles on my website <a href="https://diego-salinas-blog.herokuapp.com/">diegosalinas.dev</a>
 
 ### 🔧 Technologies & tools
 <a href="https://www.redhat.com/es/topics/linux"><img src="https://img.shields.io/badge/OS-GNU%2FLinux-68c3a3" alt="OS - GNU/Linux"></a>
