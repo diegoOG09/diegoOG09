@@ -1,5 +1,3 @@
-![header github profile](https://user-images.githubusercontent.com/63070877/163288520-6690255d-7527-4ab8-92f3-ef4c52e2c812.png)
-
 <h2 align=center>
   Hi! I'm Diego 👋
 </h2>
